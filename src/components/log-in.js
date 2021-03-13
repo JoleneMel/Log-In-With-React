@@ -20,7 +20,6 @@ export default class LogIn extends React.Component {
                 <button type="submit" className="btn btn-primary">Sign In</button>
             </form>
             </center>
-            //note
         );
     }
 }
